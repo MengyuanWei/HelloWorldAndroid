@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         // We are currently working on new_branch branch.
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_main)v
     }
 }
